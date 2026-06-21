@@ -1,5 +1,5 @@
 // =============================================================================
-//  Name: Radroach Races
+//  Name: G.O.A.T. Test
 //  Author: Theeohn Megistus
 //  License: CC-BY-NC-4.0
 //  Repository: https://github.com/Theeohn/The-G.O.A.T.-3000a-
