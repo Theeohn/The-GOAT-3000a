@@ -9,9 +9,9 @@
 - [YouTube Channel](https://www.youtube.com/@TheeohnM)
 - [GitHub](https://github.com/Theeohn)
 - [Pip-Boy](https://www.Pip-Boy.com)
-- [Pip-Boy Apps](https://github.com/CodyTolene/pip-boy-apps)
+- [Pip-Boy Apps]([https://github.com/CodyTolene/pip-boy-apps](https://github.com/CodyTolene/pip-boy-3000-holotapes))
 
-###Description
+### Description
 
 A text-based recreation of the Vault 101 Generalized Occupational Aptitude Test (G.O.A.T.) from Fallout 3, built for the Pip-Boy 3000 replica. At age 16, every Vault resident takes the G.O.A.T. to determine their career placement. This holotape recreates all 10 original test questions and answers. Your answers are tallied by skill, and at the end of the test you're assigned a Vault job — complete with a flavor-text comment in the style of Mr. Brotch, your overly-honest proctor.
 
