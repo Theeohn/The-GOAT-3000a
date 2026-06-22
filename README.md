@@ -25,6 +25,7 @@ A text-based recreation of the Vault 101 Generalized Occupational Aptitude Test 
 
 ## Credits
 
+- Claude threw most of this together, I'm no programmer but I edited a lot by hand
 - Original G.O.A.T. test, questions, and Mr. Brotch dialogue: Bethesda Game Studios, *Fallout 3* (2008).
 - Question and result text sourced from the [Fallout Wiki: G.O.A.T. page](https://fallout.fandom.com/wiki/GOAT).
 
