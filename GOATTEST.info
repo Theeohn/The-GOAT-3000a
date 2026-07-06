@@ -1,8 +1,8 @@
 {
-  "id": "Goat",
+  "id": "GOATTEST",
   "name": "G.O.A.T.",
-  "version": "1.0",
-  "files": "HOLO/GOATTEST/APP.JS",
-  "src": "HOLO/GOATTEST/APP.JS",
+  "version": "1.0.0",
+  "files": "HOLO/THEGOAT/APP.JS",
+  "src": "HOLO/THEGOAT/APP.JS",
   "icon": "APPINFO/HOLO.IMG"
 }
